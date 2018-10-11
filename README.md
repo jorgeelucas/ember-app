@@ -14,7 +14,7 @@ You will need the following things properly installed on your computer.
 
 ## Installation
 
-* `git clone <https://github.com/jorgeelucas/ember-app.git>` this one
+* `git clone https://github.com/jorgeelucas/ember-app.git` this one
 * `cd my-app`
 * `npm install`
 
